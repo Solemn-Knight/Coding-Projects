@@ -1,0 +1,3 @@
+In this folder are variations of the same pygame tetris file throughout the development process.
+
+This project was made for a class in IB Computer Science
